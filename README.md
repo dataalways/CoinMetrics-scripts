@@ -1,8 +1,9 @@
-# Flows analysis using the CoinMetrics API
+# CoinMetrics-scripts
 
-This repository is the source code attachment to the following writing. It produces the figure displayed below.
+A repository of scripts to analyze blockchain data using CoinMetrics data.
 
-https://codingalways.substack.com/p/flows-analysis-using-coinmetrics?s=w
+Example Flows Analysis output: 
 
+![alt text](./flows-analysis/demo-bitcoin-flows-analysis.png "Title")
 
-![alt text](./demo-bitcoin-flows-analysis.png "Title")
+##### Author: T. from Data Always | Twitter: @Data_Always | Substack: dataalways.substack.com
